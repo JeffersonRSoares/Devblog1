@@ -1,0 +1,18 @@
+@font-face {
+    font-family: CoffeCake;
+    src: url("../fonts/coffecake/CoffeCake.otf");
+    font-weight: normal;
+}
+
+@font-face{
+    font-family: Roboto;
+    src: url("../fonts/Roboto_Slab/static/RobotoSlab-Regular.ttf");
+    font-weight: normal;
+}
+
+p{
+    font-family: CoffeCake, 'Times New Roman, serif';
+}
+h1{
+    font-family: Roboto;
+}
